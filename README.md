@@ -24,10 +24,10 @@ Include the commands used in the Experiment.
 ## OUTPUT
 ### REG NUMBER: 212223040008
 ### NAME: AFIFA A
- 
-![alt text](sign.png)
+ ![sign](https://github.com/user-attachments/assets/87c0b1bc-0954-4179-b86d-383a24a7682c)
+![ac](https://github.com/user-attachments/assets/930afb20-7680-4d06-ad77-192ccf55b973)
 
-![alt text](ac.png)
+
 
 ## RESULT
 The AWS account was successfully created, with set up for the root user . Additionally, an IAM user was created with specified permissions, allowing for secure, controlled access to AWS resources without the use of the root account.
